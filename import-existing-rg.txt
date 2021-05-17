@@ -1,0 +1,1 @@
+terraform import azurerm_resource_group.arc  /subscriptions/f4e34ecb-4280-4f55-a9c0-fb57563a1b90/resourceGroups/automation
