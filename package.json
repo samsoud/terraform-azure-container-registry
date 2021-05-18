@@ -1,0 +1,23 @@
+{
+  "name": "terraform-azurerm-container-registry-master2",
+  "version": "1.0.0",
+  "description": "testpakage",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samsoud/terraform-azure-container-registry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samsoud/terraform-azure-container-registry/issues"
+  },
+  "homepage": "https://github.com/samsoud/terraform-azure-container-registry#readme"
+}
